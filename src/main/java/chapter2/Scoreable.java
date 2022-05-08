@@ -1,4 +1,4 @@
-package iloveyouboss_01;
+package chapter2;
 
 @FunctionalInterface
 public interface Scoreable {
